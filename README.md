@@ -1,7 +1,6 @@
 # DAA
 CIA - 1 - Sequence Alignment 
-![image](https://user-images.githubusercontent.com/99064806/230105230-686ac2e4-f171-4b08-9c5d-4f968ef48b4a.png)
-
+![image](https://user-images.githubusercontent.com/99064806/230109731-8ad396e5-9325-4cc7-a529-30ab57fe972b.png)
 
 CIA - 2 - Neural Network
 
